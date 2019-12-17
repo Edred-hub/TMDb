@@ -1,7 +1,7 @@
 LOCAL HOST:
 Step 1: Connect to GitHub
 a. Create TMDb directory in your localhost
-b. Clone / download the all files in your localhost (i.e: Mac)
+b. Clone / download all files in your localhost (i.e: Mac)
 
 Step 2: Connect to Docker
 a. https://hub.docker.com/?overlay=onboarding
