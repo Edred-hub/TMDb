@@ -25,6 +25,9 @@ b. Manual: select the Links (triangle icon) Trigger Dag
 Central Data Store (*.json datasets)
 https://drive.google.com/drive/folders/1D3f85yZgqGDloulMwIxn1iN_mddNLaxr?usp=sharing
 
+Data Science Results:
+https://public.tableau.com/profile/edred#!/vizhome/TV-SeriewDec2019/Sheet1?publish=yes
+
 Email notification Data Store 2:
 Login to https://mail.google.com/
 name: tmbd datastore
